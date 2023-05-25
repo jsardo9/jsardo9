@@ -1,5 +1,5 @@
 # About Me:
-I am a Computer Science graduate from the University of Notre Dame with a minor in Business. 
+I am a computer science graduate from the University of Notre Dame with a minor in business. 
 
 
 ## 🌐 Socials:
